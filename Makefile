@@ -1,5 +1,5 @@
 all:
-	@docker build . --platform linux/x86_64 -t jhaynie/toolbet:x86_64
+	@docker build . --platform linux/x86_64 -t jhaynie/toolbelt:x86_64
 
 push:
-	@docker push jhaynie/toolbet:x86_64
+	@docker push jhaynie/toolbelt:x86_64

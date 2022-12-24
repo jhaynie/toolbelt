@@ -7,5 +7,9 @@ A docker container built with some extra goodies:
 - ping, traceroute, dig
 - cockroach
 - nats, nsc
+- jq
+- redis cli
+- mongodb shell
+- AWS cli
 
-Available at https://hub.docker.com/repository/docker/jhaynie/toolbet or `docker pull jhaynie/toolbet:x86_64`
+Available at https://hub.docker.com/repository/docker/jhaynie/toolbelt or `docker pull jhaynie/toolbelt:x86_64`
